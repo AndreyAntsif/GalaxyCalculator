@@ -1,0 +1,2 @@
+# GalaxyCalculator
+test task
